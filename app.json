@@ -1,12 +1,7 @@
 {
   "expo": {
-<<<<<<< HEAD
-    "name": "Pert5",
-    "slug": "Pert5",
-=======
-    "name": "P4_FriendList",
-    "slug": "P4_FriendList",
->>>>>>> 551f790dd4c5c9201647cf3dda7f3bd431a43d09
+    "name": "Quiz1",
+    "slug": "Quiz1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
