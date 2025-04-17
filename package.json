@@ -1,10 +1,14 @@
 {
 <<<<<<< HEAD
+  "name": "tugas2-alvio",
+=======
+<<<<<<< HEAD
   "name": "pert5",
 =======
   "name": "p4_friendlist",
   "license": "0BSD",
 >>>>>>> 551f790dd4c5c9201647cf3dda7f3bd431a43d09
+>>>>>>> df1067d2b5d6e062b7b75d18f8a338c83559d3ff
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -14,6 +18,12 @@
     "web": "expo start --web"
   },
   "dependencies": {
+<<<<<<< HEAD
+    "expo": "~52.0.43",
+    "expo-status-bar": "~2.0.1",
+    "react": "18.3.1",
+    "react-native": "0.76.9"
+=======
 <<<<<<< HEAD
     "expo": "~52.0.46",
     "expo-status-bar": "~2.0.1",
@@ -29,6 +39,7 @@
     "react-native-web": "~0.19.13",
     "@expo/metro-runtime": "~4.0.1"
 >>>>>>> 551f790dd4c5c9201647cf3dda7f3bd431a43d09
+>>>>>>> df1067d2b5d6e062b7b75d18f8a338c83559d3ff
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
