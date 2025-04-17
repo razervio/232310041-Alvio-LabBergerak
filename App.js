@@ -1,30 +1,20 @@
-import React from 'react';
-import { ScrollView, View, Text, StyleSheet } from 'react-native';
-import ProfilRFC from './ProfilRFC';
-import ProfilRCC from './ProfilRCC';
+import { StatusBar } from 'expo-status-bar';
+import { StyleSheet, Text, View } from 'react-native';
 
-const App = () => {
+export default function App() {
   return (
-    <ScrollView contentContainerStyle={styles.container}>
-      <Text style={styles.title}>Profil dengan RFC</Text>
-      <ProfilRFC />
-      <Text style={styles.title}>Profil dengan RCC</Text>
-      <ProfilRCC />
-    </ScrollView>
+    <View style={styles.container}>
+      <Text>Open up App.js to start working on your app!</Text>
+      <StatusBar style="auto" />
+    </View>
   );
-};
+}
 
 const styles = StyleSheet.create({
   container: {
-    padding: 20,
+    flex: 1,
+    backgroundColor: '#fff',
     alignItems: 'center',
-    backgroundColor: '#f2f2f2',
-  },
-  title: {
-    fontSize: 20,
-    fontWeight: 'bold',
-    marginVertical: 10,
+    justifyContent: 'center',
   },
 });
-
-export default App;
