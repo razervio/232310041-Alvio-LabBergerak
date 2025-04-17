@@ -1,17 +1,7 @@
 {
   "expo": {
-<<<<<<< HEAD
-    "name": "tugas2-alvio",
-    "slug": "tugas2-alvio",
-=======
-<<<<<<< HEAD
-    "name": "Pert5",
-    "slug": "Pert5",
-=======
-    "name": "P4_FriendList",
-    "slug": "P4_FriendList",
->>>>>>> 551f790dd4c5c9201647cf3dda7f3bd431a43d09
->>>>>>> df1067d2b5d6e062b7b75d18f8a338c83559d3ff
+    "name": "tugas3_Alvio_232310041",
+    "slug": "tugas3_Alvio_232310041",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
